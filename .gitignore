@@ -1,6 +1,14 @@
 #视觉部分忽略
 视觉/reference/
 视觉/robogame_venv/
+视觉/image
+视觉/view/.idea
+视觉/view/temp
+视觉/view/view/.idea
+视觉/view/view/__pycache__
+视觉/view/view/VIEW_ENV
+视觉/view/view/result
+视觉/view/view/QRcode
 
 #
 电路控制/reference/
